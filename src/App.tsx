@@ -1,10 +1,10 @@
-import {Button} from "./components/Button.tsx";
+import {Button} from "./components/themes/XP/Button.tsx";
 
 function App() {
   return (
     <div className="h-dvh w-dvw p-4">
       <Button>
-        Hello, World!
+        Windows XP
       </Button>
     </div>
   )
